@@ -1,0 +1,20 @@
+
+Enter root data : 
+Enter number of children of 1 : 
+Enter 0th child of 1 : 
+Enter 1th child of 1 : 
+Enter 2th child of 1 : 
+Enter number of children of 2 : 
+Enter number of children of 3 : 
+Enter 0th child of 3 : 
+Enter 1th child of 3 : 
+Enter number of children of 4 : 
+Enter number of children of 5 : 
+Enter number of children of 6 : 1 : 2, 3, 4, 
+2 : 
+3 : 5, 6, 
+5 : 
+6 : 
+4 : 
+
+3
